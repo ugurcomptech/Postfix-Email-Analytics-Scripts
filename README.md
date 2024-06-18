@@ -41,10 +41,10 @@ Kullanım:
 ## Kullanım
 Her bir script, çalıştırıldığında komut satırı parametreleri ile kullanılır. Detaylı kullanım bilgileri ve örnekler için ilgili script dosyalarını inceleyebilirsiniz.
 
-##Bilgilendirme
+## Bilgilendirme
 Bu scriptler, Postfix e-posta sunucusunda e-posta yönetimi ve analizleri için geliştirilmiştir. Scriptlerin kullanımı ve sonuçları, sunucunuzun yapılandırmasına ve log dosyalarının yerine bağlı olarak değişebilir. Scriptlerin doğru çalışması için uygun parametreleri verdiğinizden emin olun.
 
-##Katkıda Bulunma
+## Katkıda Bulunma
 Bu repo açık kaynaklıdır ve katkılarınızı bekliyoruz! Eğer scriptlere yeni özellikler eklemek veya hataları düzeltmek isterseniz, lütfen bir pull request gönderin.
 
 
