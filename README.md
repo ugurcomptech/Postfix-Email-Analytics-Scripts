@@ -12,7 +12,8 @@ Bu script, belirli bir e-posta adresine ait gönderilen e-posta sayısını hesa
 ```
 
 Kontrol sağladığmızda gün içerisinde göndermiş olduğum mail sayısı gözükmekte.
-![image](https://github.com/ugurcomptech/Postfix-Email-Analytics-Scripts/assets/133202238/e55874f9-9bba-4167-9b78-ffaeb5677c62)
+
+![image](https://github.com/ugurcomptech/Postfix-Email-Analytics-Scripts/assets/133202238/6094a314-e620-4afd-aebb-08549793391c)
 
 
 ### 2. total-mail-counter.sh
