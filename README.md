@@ -8,7 +8,7 @@ Bu repo, Postfix e-posta sunucusu üzerinde çalışan üç farklı Bash script 
 Bu script, belirli bir e-posta adresine ait gönderilen e-posta sayısını hesaplar. Aşağıdaki şekilde yazarak test sağlayabilirsiniz. Ben alias tanımlayarak yapıyorum kolaylık olması açısından.
 
 ```bash
-./mail-address-finder.sh mail@domain.com
+./mail-sender-counter.sh mail@domain.com
 ```
 
 Kontrol sağladığmızda gün içerisinde göndermiş olduğum mail sayısı gözükmekte.
